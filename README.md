@@ -17,7 +17,7 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 <img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="688">
 </div>
 
-~
+<>
 
 <div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/modulation_s2g.png" width="678">
