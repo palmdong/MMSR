@@ -43,11 +43,11 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 
 
 # Citation
-'''
+```
 @InProceedings{Dong2022MMSR,
   author    = {Dong, Xiaoyu and Yokoya, Naoto and Wang, Longguang and Uezato, Tatsumi},
   title     = {Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution},
   booktitle = {ECCV},
   year      = {2022},
 }
-'''
+```
