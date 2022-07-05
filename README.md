@@ -1,7 +1,5 @@
 # MMSR
-Updating,
-Jul 5, 
-dong@ms.k.u-tokyo.ac.jp
+[Jul 5] Updating, dong@ms.k.u-tokyo.ac.jp
 
 <div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="688">
