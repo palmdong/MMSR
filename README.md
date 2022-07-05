@@ -1,7 +1,7 @@
 # MMSR
 Updating.
 
-Jul 5, 2022, 
+Jul 5, 
 dong@ms.k.u-tokyo.ac.jp
 
 <div align=center>
