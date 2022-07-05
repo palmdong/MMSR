@@ -32,7 +32,7 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 .
  
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/visualization_feature.png" width="678">
+<img src="https://github.com/palmdong/MMSR/blob/main/visualization_fea.png" width="678">
 </div>
 
 .
