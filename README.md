@@ -1,6 +1,8 @@
 # MMSR
 Coming soon.  
 
+![image](https://github.com/palmdong/MMSR/blob/main/2_model_new.pdf)
+
 # Abstract
 Self-supervised cross-modal super-resolution (SR) can overcome the difficulty of acquiring paired training data, but is challenging because only low-resolution (LR) source and high-resolution (HR) guide images from different modalities are available. 
 Existing methods utilize pseudo or weak supervision in LR space and thus deliver results that are blurry or not faithful to the source modality. 
