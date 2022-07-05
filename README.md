@@ -14,7 +14,7 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 
   author    = {Dong, Xiaoyu and Yokoya, Naoto and Wang, Longguang and Uezato, Tatsumi},
   
-  title     = {Learning Mutual Modulation for Unsupervised Cross-Modal Super-Resolution},
+  title     = {Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution},
   
   booktitle = {ECCV},
   
