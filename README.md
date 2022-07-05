@@ -53,6 +53,12 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 <img src="https://github.com/palmdong/MMSR/blob/main/result_noisy.png" width="688">
 </div>
 
+.
+ 
+<div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/result_thermal.png" width="688">
+</div>
+
 # Citation
 ```
 @InProceedings{Dong2022MMSR,
