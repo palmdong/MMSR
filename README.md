@@ -20,25 +20,25 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 .
 
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/modulation_s2g.png" width="678">
+<img src="https://github.com/palmdong/MMSR/blob/main/modulation_s2g.png" width="688">
 </div>
 
 .
  
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/modulation_g2s.png" width="678">
+<img src="https://github.com/palmdong/MMSR/blob/main/modulation_g2s.png" width="688">
 </div>
 
 .
  
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/visualization_fea.png" width="678">
+<img src="https://github.com/palmdong/MMSR/blob/main/visualization_fea.png" width="688">
 </div>
 
 .
  
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/table_depth.png" width="678">
+<img src="https://github.com/palmdong/MMSR/blob/main/table_depth.png" width="688">
 </div>
 
 
