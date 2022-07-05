@@ -1,7 +1,4 @@
 # MMSR
-Pytorch implementation of "Learning Mutual Modulation for Unsupervised Cross-Modal Super-Resolution", [ECCV 2022] 
-
-
 Coming soon.  
 
 # Abstract
