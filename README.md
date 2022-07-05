@@ -30,7 +30,7 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 </div>
 
 # Citation
-'@InProceedings{Dong2022MMSR,
+@InProceedings{Dong2022MMSR,
 
   author    = {Dong, Xiaoyu and Yokoya, Naoto and Wang, Longguang and Uezato, Tatsumi},
   
@@ -40,4 +40,4 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
   
   year      = {2022},
   
-}'
+}
