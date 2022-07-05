@@ -3,7 +3,7 @@ Coming soon.
 
 <img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="688">
 
-<img src="[https://github.com/palmdong/MMSR/blob/main/example_result.png](https://github.com/palmdong/MMSR/blob/main/mmsr_model.png)" width="688">
+<img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="688">
 
 
 # Abstract
