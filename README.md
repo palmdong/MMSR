@@ -2,6 +2,7 @@
 Coming soon.  
 
 ![image](https://github.com/palmdong/MMSR/blob/main/example_result.png)
+<img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="388">
 
 ![image](https://github.com/palmdong/MMSR/blob/main/mmsr_model.png)
 
