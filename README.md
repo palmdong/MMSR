@@ -1,6 +1,5 @@
 # MMSR
-Updating..
-
+Updating,
 Jul 5, 
 dong@ms.k.u-tokyo.ac.jp
 
