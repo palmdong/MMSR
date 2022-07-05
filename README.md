@@ -2,8 +2,8 @@
 Coming soon.  
 
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="888">
-<img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="888">
+<img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="788">
+<img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="788">
 </div>
 
 # Abstract
