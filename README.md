@@ -1,5 +1,5 @@
 # MMSR
-Coming soon.  
+Updating.
 
 <div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="688">
