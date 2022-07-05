@@ -2,7 +2,7 @@
 Coming soon.  
 
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="788">
+<img src="https://github.com/palmdong/MMSR/blob/main/example_result.png" width="718">
 </div>
 
 # Abstract
@@ -14,7 +14,15 @@ Moreover, we adopt a cycle consistency constraint to train MMSR in a fully self-
 Experiments on various tasks demonstrate the state-of-the-art performance of our MMSR.
 
 <div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="788">
+<img src="https://github.com/palmdong/MMSR/blob/main/mmsr_model.png" width="718">
+</div>
+
+<div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/modulation_s2g.png" width="618">
+</div>
+
+<div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/modulation_g2s.png" width="618">
 </div>
 
 # Citation
