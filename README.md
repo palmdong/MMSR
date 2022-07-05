@@ -29,6 +29,19 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 <img src="https://github.com/palmdong/MMSR/blob/main/modulation_g2s.png" width="678">
 </div>
 
+.
+ 
+<div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/visualization_feature.png" width="678">
+</div>
+
+.
+ 
+<div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/table_depth.png" width="678">
+</div>
+
+
 # Citation
 @InProceedings{Dong2022MMSR,
 
