@@ -56,6 +56,12 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 .
  
 <div align=center>
+<img src="https://github.com/palmdong/MMSR/blob/main/result_dem.png" width="688">
+</div>
+
+.
+ 
+<div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/result_thermal.png" width="688">
 </div>
 
