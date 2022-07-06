@@ -1,5 +1,5 @@
 # MMSR
-[Jul 5] We thank the reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. Updating. 
+[Jul 5] We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. Updating. 
 
 <div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/result_example.png" width="688">
