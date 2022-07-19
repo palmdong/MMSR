@@ -1,5 +1,5 @@
 # MMSR
-Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution, ECCV 2022  
+PyTorch implementation of Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution  
 [paper] [supp] [arXiv]
 
 ## Updates
