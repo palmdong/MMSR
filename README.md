@@ -1,6 +1,6 @@
 # MMSR
-**[Jul 4]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
-**[Jul 6]** Updating. 
+**[Jul 4, 2022]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
+**[Jul 19, 2022]** Updating. 
 
 <div align=center>
 <img src="https://github.com/palmdong/MMSR/blob/main/result_example.png" width="688">
