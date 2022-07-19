@@ -1,5 +1,6 @@
 # MMSR
-Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution [ECCV 2022] [supp] [arXiv]
+Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution, ECCV 2022  
+[paper] [supp] [arXiv]
 
 ## Updates
 **[Jul 4, 2022]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
