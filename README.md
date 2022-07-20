@@ -1,6 +1,6 @@
 # MMSR
 PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution"  
-[paper] [supp] [[arXiv]](https://arxiv.org/abs/2207.09156)
+[ECCV paper, supp] [[arXiv]](https://arxiv.org/abs/2207.09156)
 
 <p align="center"> <img src="figs/result_example.png" width="68%"> </p>
 
