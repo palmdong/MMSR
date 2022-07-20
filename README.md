@@ -20,7 +20,7 @@ Experiments on various tasks demonstrate the state-of-the-art performance of our
 
 
 ## Quick Start
-Updating.
+Check the Jupyter Notebook file [inference.ipynb](https://github.com/palmdong/MMSR/blob/main/inference.ipynb).
 
 
 ## Citation
