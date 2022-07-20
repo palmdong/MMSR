@@ -2,16 +2,15 @@
 PyTorch implementation of Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution  
 [paper] [supp] [[arXiv]](https://arxiv.org/abs/2207.09156)
 
+
 ## Updates
 **[Jul 4, 2022]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
 **[Jul 20, 2022]** Updating. 
 
-<div align=center>
-<img src="https://github.com/palmdong/MMSR/blob/main/result_example.png" width="688">
-</div>
 
 ## Quick Start
 Updating.
+
 
 ## Citation
 ```
