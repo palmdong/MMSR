@@ -12,7 +12,8 @@ PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-
 
 
 ## Quick Start
-Check the Jupyter Notebook file [inference.ipynb](https://github.com/palmdong/MMSR/blob/main/inference.ipynb).
+Check the Jupyter Notebook file [inference.ipynb](https://github.com/palmdong/MMSR/blob/main/inference.ipynb).  
+For any question or discussion, reach Xiaoyu Dong at dong@ms.k.u-tokyo.ac.jp.
 
 
 ## Citation
