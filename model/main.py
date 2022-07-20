@@ -38,7 +38,7 @@ def MMSR(guide_img, source_img, params=DEFAULT_PARAMS, target_img=None):
     if target_img is not None:
         target_img = (target_img - source_img_mean) / source_img_std      
 
-    # optimization                                                                                             
+    # prepare data                                                                                             
     guide_img = torch.from_numpy(guide_img).float().to(device)
     source_img = torch.from_numpy(source_img).float().to(device)
     guide_for_opt = guide_img.unsqueeze(0)                                        
