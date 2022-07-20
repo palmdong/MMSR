@@ -1,14 +1,14 @@
 # MMSR
 PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution"  
-[ECCV2022 paper, supp] [[arXiv]](https://arxiv.org/abs/2207.09156)
+[ECCV2022 paper, supp] [[arXiv](https://arxiv.org/abs/2207.09156)]
 
 <p align="center"> <img src="figs/result_example.png" width="68%"> </p>
 
 
 ## Updates
-**[2022/07/04]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv.  
+**[2022/07/04]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
 **[2022/07/19]** Paper is available on [arXiv](https://arxiv.org/abs/2207.09156).  
-**[2022/07/20]** Code was uploaded. Our code was built on the [repository](https://github.com/prs-eth/PixTransform) of [P2P (ICCV 2019)](https://arxiv.org/abs/1904.01501), we thank the authors for their efforts.   
+**[2022/07/20]** Code was uploaded. Our code was built on the [repository](https://github.com/prs-eth/PixTransform) of [P2P (ICCV2019)](https://arxiv.org/abs/1904.01501), we thank the authors for their efforts.   
 
 
 ## Quick Start
