@@ -8,7 +8,10 @@ import torch.utils.data
 from model.network import MMSR_net   
 
 
-DEFAULT_PARAMS = {'loss': 'l1',
+DEFAULT_PARAMS = {
+                  'scale': -1,
+  
+                  'loss': 'l1',
                   'optim': 'adam',
                   'lr': -1,
                   'weights_regularizer': [-1, -1, -1, -1], 
@@ -21,11 +24,8 @@ DEFAULT_PARAMS = {'loss': 'l1',
 def MMSR(guide_img, source_img, params=DEFAULT_PARAMS, target_img=None):          
     device = torch.device("cuda:3" if torch.cuda.is_available() else "cpu")        
 
-    C, H, W = guide_img.shape                         
-
-    source_img = source_img.squeeze()                              
-    h, w = source_img.shape                                                              
-    r = H // h                                        
+    source_img = source_img.squeeze()                                                                                         
+    r = params['scale']                                        
     
     # normalization            
     guide_img = (guide_img - np.mean(guide_img, axis=(1, 2), keepdims=True)) / np.std(guide_img, axis=(1, 2), keepdims=True)
