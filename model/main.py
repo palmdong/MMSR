@@ -13,8 +13,7 @@ DEFAULT_PARAMS = {'loss': 'l1',
                   'lr': -1,
                   'weights_regularizer': [-1, -1, -1, -1], 
     
-                  'batch_size': -1,               
-                  'iteration': -1,                
+                  'batch_size': -1,                            
                   'epoch': -1,                              
                   }                                     
 
