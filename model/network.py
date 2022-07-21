@@ -68,7 +68,7 @@ class MMSR_net(nn.Module):
         self.branch_pred = nn.Sequential(ResBlock(conv, 64, 1), ResBlock(conv, 64, 1), ResBlock(conv, 64, 1),
                                          conv(64, 1, 1)) 
 
-        reg_guide,reg_source,reg_modu,reg_pred = weights_regularizer[:4]
+        reg_guide, reg_source, reg_modu, reg_pred = weights_regularizer[:4]
         self.params_with_regularizer = [{'params':self.branch_guide.parameters(),'weight_decay':reg_guide},\
                                         {'params':self.branch_source.parameters(),'weight_decay':reg_source},\
                                         {'params':self.modulation.parameters(),'weight_decay':reg_modu},\
