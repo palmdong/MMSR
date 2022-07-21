@@ -62,7 +62,7 @@ def MMSR(guide_img, source_img, params=DEFAULT_PARAMS, target_img=None):
         return
 
     # train network                                                           
-    for epoch in range(params["epoch"]):
+    for epoch in range(params['epoch']):
         if (epoch+1) % 5 == 0:                                               
             for p in optimizer.param_groups:
                 p['lr'] *= 0.9998
