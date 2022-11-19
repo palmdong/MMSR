@@ -2,8 +2,6 @@
 PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution"  
 [[ECCV2022 paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790001.pdf), [supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790001-supp.pdf)] [[arXiv](https://arxiv.org/abs/2207.09156)]
 
-<p align="center"> <img src="figs/result_example.png" width="68%"> </p>
-
 
 ## Updates
 **[2022/07/04]** We thank anonymous reviewers from ECCV2022 and CVPR2022 for their suggestions to our paper. See you in Tel-Aviv!  
@@ -18,6 +16,9 @@ To address this issue, we present a mutual modulation SR (MMSR) model, which tac
 In these modulations, we develop cross-domain adaptive filters to fully exploit cross-modal spatial dependency and help induce the source to emulate the resolution of the guide and induce the guide to mimic the modality characteristics of the source. 
 Moreover, we adopt a cycle consistency constraint to train MMSR in a fully self-supervised manner. 
 Experiments on various tasks demonstrate the state-of-the-art performance of our MMSR.
+
+
+<p align="center"> <img src="figs/result_example.png" width="68%"> </p>
 
 
 ## Quick Start
