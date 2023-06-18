@@ -19,7 +19,13 @@ Moreover, we adopt a cycle consistency constraint to train MMSR in a fully self-
 Experiments on various tasks demonstrate the state-of-the-art performance of our MMSR ([Fig. 1]()).
 
 
-<p align="center"> <img src="figs/model.png" width="68%"> </p>
+<p align="center"> <img src="figs/model.png" width="78%"> </p>
+
+<p align="center"> <img src="figs/source_to_guide.png" width="58%"> </p>
+
+<p align="center"> <img src="figs/guide_to_source.png" width="58%"> </p>
+
+<p align="center"> <img src="figs/visualization.png" width="68%"> </p>
 
 <p align="center"> <img src="figs/result_example.png" width="68%"> </p>
 
