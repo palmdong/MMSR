@@ -13,17 +13,17 @@ PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-
 Self-supervised cross-modal super-resolution (SR) can overcome the difficulty of acquiring paired training data, but is challenging because only low-resolution (LR) source and high-resolution (HR) guide images from different modalities are available.  
 Existing methods utilize pseudo or weak supervision in LR space and thus deliver results that are blurry or not faithful to the source modality. 
 
-To address this issue, we present a mutual modulation SR (MMSR) model ([Fig. 2]()), which tackles the task by a mutual modulation strategy, including a source-to-guide modulation and a guide-to-source modulation.  
-In these modulations, we develop cross-domain adaptive filters to fully exploit cross-modal spatial dependency and help induce the source to emulate the resolution of the guide and induce the guide to mimic the modality characteristics of the source.  
+To address this issue, we present a mutual modulation SR (MMSR) model ([Fig. 2]()), which tackles the task by a mutual modulation strategy, including a source-to-guide modulation ([Fig. 3]()) and a guide-to-source modulation ([Fig. 4]()).  
+In these modulations, we develop cross-domain adaptive filters to fully exploit cross-modal spatial dependency and help induce the source to emulate the resolution of the guide and induce the guide to mimic the modality characteristics of the source ([Fig. 9]()).  
 Moreover, we adopt a cycle consistency constraint to train MMSR in a fully self-supervised manner.  
 Experiments on various tasks demonstrate the state-of-the-art performance of our MMSR ([Fig. 1]()).
 
 
 <p align="center"> <img src="figs/model.png" width="78%"> </p>
 
-<p align="center"> <img src="figs/source_to_guide.png" width="58%"> </p>
+<p align="center"> <img src="figs/source_to_guide.png" width="68%"> </p>
 
-<p align="center"> <img src="figs/guide_to_source.png" width="58%"> </p>
+<p align="center"> <img src="figs/guide_to_source.png" width="68%"> </p>
 
 <p align="center"> <img src="figs/visualization.png" width="68%"> </p>
 
