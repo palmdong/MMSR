@@ -43,7 +43,7 @@ For any question or discussion, reach Xiaoyu Dong at dong@ms.k.u-tokyo.ac.jp.
 
 ## Citation
 ```
-@InProceedings{Dong2022MMSR,
+@InProceedings{MMSR_2022_ECCV,
   author    = {Dong, Xiaoyu and Yokoya, Naoto and Wang, Longguang and Uezato, Tatsumi},
   title     = {Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution},
   booktitle = {ECCV},
