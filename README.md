@@ -4,9 +4,9 @@ PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-
 
 
 ## Updates
-**[2022/07/04]** Our paper was accepted by ECCV2022. See you in Tel-Aviv!  
+**[2022/07/04]** Our paper was accepted to ECCV 2022. See you in Tel-Aviv!  
 **[2022/07/19]** Paper is available on [arXiv](https://arxiv.org/abs/2207.09156).  
-**[2022/07/20]** Code was uploaded. Our code was built on the [repository](https://github.com/prs-eth/PixTransform) of [P2P (ICCV2019)](https://arxiv.org/abs/1904.01501), we thank the authors for their efforts.   
+**[2022/07/20]** Code has been uploaded. Our code was built on the [repository](https://github.com/prs-eth/PixTransform) of [P2P (ICCV2019)](https://arxiv.org/abs/1904.01501), we thank the authors for their efforts.   
 
 
 ## Abstract
