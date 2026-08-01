@@ -12,6 +12,8 @@ PyTorch implementation of "Learning Mutual Modulation for Self-Supervised Cross-
 
 <p align="center"> <img src="figs/model.png" width="78%"> </p>
 
+<p align="center"> <img src="figs/visualization.png" width="68%"> </p>
+
 <p align="center"> <img src="figs/result_example.png" width="68%"> </p>
 
 <p align="center"> <img src="figs/result_dem.png" width="68%"> </p>
